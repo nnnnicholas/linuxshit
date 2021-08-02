@@ -8,7 +8,7 @@ You ever want to `ls` a vertical list of just the filenames, without all the stu
 
 # Example
 ```
-$ ~/bin/lsfn
+$ lsf
 
 Arduino
 bin
