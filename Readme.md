@@ -1,4 +1,4 @@
-You ever want to `ls` just the filenames?
+You ever want to `ls` a vertical list of just the filenames, without all the stuff `ls -la` prints?
 
 # Install
 1. rename listFilenames.sh to the name you'd like for the command. For example lsf.
